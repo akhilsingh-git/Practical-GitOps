@@ -1,6 +1,6 @@
 # Source Code
 
-This repository accompanies [*Practical GitOps: Infrastructure Management using Terraform, AWS and Github Actions*]
+This repository accompanies 
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
